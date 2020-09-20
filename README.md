@@ -1,3 +1,3 @@
-# NewZealand-Trade-Analysis
+# Trade-Analysis
 
-Data Analysis of New Zealand Imports and exports
+Data Analysis of 6 years trade data
